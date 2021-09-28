@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Crear cuenta" skipped="0" tests="1" time="11.38" timestamp="2021-05-14 08:32:56"><testcase name=""><error message="Keys to send should be a not null CharSequence" type="java.lang.IllegalArgumentException">Keys to send should be a not null CharSequence</error><system-err>Keys to send should be a not null CharSequence&#13;
+com.Guru.Bank.pruebas.PageObjects.CreateAccountPageObject.escribirUsuario(CreateAccountPageObject.java:27)&#13;
+com.Guru.Bank.pruebas.Steps.CreateAccountSteps.IniciarSession(CreateAccountSteps.java:18)&#13;
+com.Guru.bank.pruebas.StepDefinitions.CreateAccountStepDefinition.userIsLogInGuruBank(CreateAccountStepDefinition.java:20)&#13;
+✽.user is Log in Guru Bank(src/test/resources/com.Guru.bank.pruebas.features/Create.feature:4)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/main/java/com/startsharp/pruebas/pageobjects/BusinessUnitPageObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/main/java/com/startsharp/pruebas/pageobjects/MeetPageObject.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/main/java/com/startsharp/pruebas/steps/BusinessUnitSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/main/java/com/startsharp/pruebas/steps/MeetSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/main/java/com/startsharp/pruebas/utils/ExcelReader.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/test/java/com/startsharp/pruebas/runners/MeetRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/test/java/com/startsharp/pruebas/runners/Runner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/test/java/com/startsharp/pruebas/stepdefinitions/BusinessUnitStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/test/java/com/startsharp/pruebas/stepdefinitions/MeetStepDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/test/java/com/startsharp/pruebas/utils/FeatureOverright.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/test/resources/com.startsharp.login.pruebas.features/createbussinesunit.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/test/resources/com.startsharp.login.pruebas.features/createmeet.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/Prueba/src/test/resources/com.startsharp.login.pruebas.features/login.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
